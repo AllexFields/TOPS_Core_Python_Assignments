@@ -1,0 +1,5 @@
+Hello there, My name is Shivam Thakur.
+This is a file handling question.
+I need to read an entire text file.
+Should i take help from ChatGPT?
+I will try my best first.

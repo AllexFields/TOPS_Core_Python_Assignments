@@ -1,0 +1,7 @@
+# How will you remove last object from a list? 
+
+# ANS --- We can use an in-built method of lists, pop() method which by default removes the last element
+
+lst=[12,1,32,24,5]
+lst.pop()
+print(lst)

@@ -1,0 +1,24 @@
+How Do You Traverse Through a Dictionary Object in Python?
+
+A dictionary can be traversed using a for loop along with methods like 
+.keys() to access keys only,
+.values() to access values only, or
+.items() to access keys & values both.
+
+eg:- dictionary={
+    'name':'Aastha',
+    'age':21,
+    'course':DS
+    }
+
+To access keys only ---
+    for k in dictionary.keys():
+        print(k)
+
+To access values only ---
+    for v in dictionary.values():
+        print(v)
+
+To access both keys & values only ---
+    for k,v in dictionary.items():
+        print(k,v)
