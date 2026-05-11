@@ -1,8 +1,0 @@
-Normally indexing starts with 0, from left to right.
-It allows us to access any element of a sequence from left side only.
-
-But negative indexing allows us to access any sequence(say a list or a tuple)
-from right to left. Thus we can access elements from the end of a sequence.
-
-negative index starts from -1 to negative of length of a strng.
-for eg:- str[-1],str[-3],str[-5]

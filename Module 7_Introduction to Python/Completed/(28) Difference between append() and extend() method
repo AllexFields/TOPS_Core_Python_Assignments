@@ -1,9 +1,0 @@
-append() --- it adds elements at the end of a list.
-extend() ---- it also adds elements at the end of a list.
-
-difference between these two is such:-
-
-append() --- it takes only one argument and when a list or tuple(or a dictionary) is appended, 
-             whole list is added as one single element.
-extend() --- it takes iterables as argument(multiple arguments) and adds each element of a list or tuple as individual 
-             elements separately

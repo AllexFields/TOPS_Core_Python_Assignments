@@ -1,3 +1,0 @@
-this is a file handling question
-and i need to append a text
-"This is appended text"

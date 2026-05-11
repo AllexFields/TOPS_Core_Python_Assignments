@@ -1,8 +1,0 @@
-What is tuple? Difference between list and tuple.
-
-Tuple is also a type of sequence in python. It is ordered and immutable.
-Tuple starts with ()
-
-Difference between a list and a tuple is that Lists are mutable(i.e. they can be altered, we
-can add or remove elements from a list) but tuples are not mutable, i.e. we can't change 
-its stored values directly. Simplest way to do so is to convert a tuple into list.

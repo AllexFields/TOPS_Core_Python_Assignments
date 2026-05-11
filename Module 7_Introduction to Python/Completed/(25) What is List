@@ -1,4 +1,0 @@
-# What is List? How will you reverse a list? 
-
-List is a collection(to store multiple inputs in one varibale) in python. It is ordered and mutable that means it can be changed using its in-built methods.
-It can store all types of data, i.e. int and strings
