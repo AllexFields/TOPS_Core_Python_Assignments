@@ -130,7 +130,7 @@ Aspiring Data Analyst | Python Learner | Exploring Data Analytics & AI
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/shivam-thakur-a97680335
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-thakur-55b167406/
 - 📧 Email: dataanalyst.shivamthakur@gmail.com
 
 ---
