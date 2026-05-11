@@ -1,0 +1,11 @@
+How Do You Check the Presence of a Key in A Dictionary?
+
+Easiest way to check the Presence of a key in a dictionary is :-
+We can use in-built method, .get() --- it returns the value for corresponding
+key, but if there's no such key then it'll return none.
+
+eg:- Suppose we have a dictionary={'name':'shivam','age':24}
+     Now to check if there's any key = 'city' is in our dictionary,
+     we can print(dictionary.get('city')).
+
+     It'll return 'None'.

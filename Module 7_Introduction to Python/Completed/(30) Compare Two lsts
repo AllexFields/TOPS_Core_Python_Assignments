@@ -1,0 +1,17 @@
+# How will you compare two lists?
+
+'''We can easily compare two lists by using a simple code:-
+if lst_1==lst_2:
+    print('True')
+
+What is happening here is that we set a condition which checks each element of lst_1
+with the corresponding elements of lst_2.
+
+Note:- While compairing both lists, order of elements matters.
+
+Let's take an eg:-
+lst_1=[1,23,4]
+lst_2=[1,4,23]
+
+Elements of both lists are same but due to different order, lst_1 isn't equal to lst_2.
+If lst_2=[1,23,4], lst_1 would have been equal to lst_2'''

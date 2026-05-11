@@ -1,0 +1,6 @@
+# How can you get a random number in Python?
+
+# Python has a built-in module called random which is used 
+# to generate random numbers or random values.
+
+# It has many methods such as random.choice(), random.randrange()....

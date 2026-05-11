@@ -1,0 +1,6 @@
+How memory is managed in Python? 
+
+Python has a automatic memory management system. It stores and deletes everything on its own(automatically).
+For example, 
+    x='Apple'
+    x is a variable that references the object "Apple" stored in memory.
